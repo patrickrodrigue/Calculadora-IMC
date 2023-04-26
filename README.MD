@@ -20,7 +20,7 @@ A função recebe o peso e altura e calcula o IMC dividindo o peso pela altura a
 
 ![](assets/img/V%C3%A1lido.png)
 
-![]assets/(img/array.png)
+![](assets/img/array.png)
 
 <p>A função cria um elemento HTML e a função recebe uma mensagem e um valor booleano, seleciona o elemento HTML com a ID 'resultado', o esvazia, cria um novo elemento , adiciona uma classe CSS dependendo do valor booleano, insere a mensagem nesse elemento e adiciona o elemento como filho do elemento 'resultado'.</p>
 
